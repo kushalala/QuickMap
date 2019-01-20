@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuickMappie</string>
+    <string name="google_map_key">AIzaSyCAwi1jEXQfMQuOLxeBBGajDzVv7H329bg</string>
+    <string name="google_map">QuickMappie</string>
+    <string name="enter_address_city_or_zip_code">Enter Address, City or Zip code</string>
+
+</resources>
